@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Consolidated duplicate helper functions
+
+## 2026-05-06
+- Resolved deprecation warnings
