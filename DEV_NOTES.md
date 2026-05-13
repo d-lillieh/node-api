@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Added healthcheck endpoint stub
+
+## 2026-05-13
+- Pinned dependency versions for reproducibility
+- Updated license year
